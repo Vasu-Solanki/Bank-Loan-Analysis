@@ -20,9 +20,9 @@
     
 <h2>Project Images</h2>
     <!-- Add Images from your 'image' folder -->
-    <img src="IMAGE/bank file pdf_page-0001.JPG"  width="500">
-    <img src="IMAGE/bank file pdf_page-0002.JPG"  width="500">
-    <img src="IMAGE/bank file pdf_page-0003.JPG"  width="500">
+    <img src="IMAGE/bank file pdf_page-0001.jpg"  width="500">
+    <img src="IMAGE/bank file pdf_page-0002.jpg"  width="500">
+    <img src="IMAGE/bank file pdf_page-0003.jpg"  width="500">
 
 <h2>Features</h2>
     <ul>
