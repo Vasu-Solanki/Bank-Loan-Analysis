@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bank Loan Dashboard</title>
 </head>
 <body>
     <h1>Bank Loan Dashboard</h1>
@@ -21,9 +20,9 @@
     
 <h2>Project Images</h2>
     <!-- Add Images from your 'image' folder -->
-    <img src="image/bank file pdf_page-0001.png" alt="Dashboard Overview" width="500">
-    <img src="image/bank file pdf_page-0002.png" alt="Loan Status Breakdown" width="500">
-    <img src="image/bank file pdf_page-0003.png" alt="Monthly Loan Trends" width="500">
+    <img src="IMAGE/bank file pdf_page-0001.png"  width="500">
+    <img src="IMAGE/bank file pdf_page-0002.png"  width="500">
+    <img src="IMAGE/bank file pdf_page-0003.png"  width="500">
 
 <h2>Features</h2>
     <ul>
